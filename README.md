@@ -7,3 +7,5 @@ This repository contains implementations of various research papers. All noteboo
 - [**Generative Adversarial Nets**](./Generative_Adversarial_Nets/) - Introduces a framework for training generative models via a game between a generator and a discriminator, leading to powerful generative capabilities.
 
 - [**Unsupervised Representation Learning with Deep Convoluntional Generative Adversial Networks**](./Deep_convolutional_GAN/) - Demonstrates how convolutional architectures can be applied to GANs, improving training stability and image generation quality.
+
+- [**U-Net: Convolutional Networks for Biomedical Image Segmentation**](./Convolutional_Networks_for_Biomedical_Image_Segmentation/) - Proposes a U-shaped convolutional network for precise segmentation of images.
