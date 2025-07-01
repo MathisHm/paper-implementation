@@ -9,3 +9,5 @@ This repository contains implementations of various research papers. All noteboo
 - [**Unsupervised Representation Learning with Deep Convoluntional Generative Adversial Networks**](./Deep_convolutional_GAN/) - Demonstrates how convolutional architectures can be applied to GANs, improving training stability and image generation quality.
 
 - [**U-Net: Convolutional Networks for Biomedical Image Segmentation**](./Convolutional_Networks_for_Biomedical_Image_Segmentation/) - Proposes a U-shaped convolutional network for precise segmentation of images.
+
+- [**Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**](./Batch_normalization/) - Introduces a normalization technique that significantly improves the speed, performance, and stability of deep neural network training.
