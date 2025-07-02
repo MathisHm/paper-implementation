@@ -11,3 +11,5 @@ This repository contains implementations of various research papers. All noteboo
 - [**U-Net: Convolutional Networks for Biomedical Image Segmentation**](./Convolutional_Networks_for_Biomedical_Image_Segmentation/) - Proposes a U-shaped convolutional network for precise segmentation of images.
 
 - [**Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**](./Batch_normalization/) - Introduces a normalization technique that significantly improves the speed, performance, and stability of deep neural network training.
+
+- [**Layer Normalization**](./Layer_Normalization/) - Proposes a normalization method applied across features in a single training case, useful especially for recurrent neural networks and transformers.
