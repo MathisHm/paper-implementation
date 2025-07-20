@@ -3,7 +3,8 @@
 This repository contains implementations of various research papers. All notebooks can be run directly on Google Colab.
 
 > **Disclaimer**  
-> For some paper implementations, only the architecture has been implemented, without full training routines. This is due to relevance or the lack of computational feasibility for training.
+> For some paper implementations, only the architecture has been implemented, without full training routines. This is due to relevance or the lack of computational feasibility for training.  
+> I also used external resources and got inspiration from various sources, so I do not claim full credit for all implementations.
 
 ## Implemented Papers
 
@@ -27,3 +28,6 @@ This repository contains implementations of various research papers. All noteboo
 
 - [**Attention Is All You Need**](./Attention_Is_All_You_Need/)  
   Introduces the Transformer architecture, which relies entirely on attention mechanisms, dispensing with recurrence and convolutions entirely for sequence modeling tasks.
+
+- [**LoRA: Low-Rank Adaptation of Large Language Models**](./LoRA)  
+  Proposes a parameter-efficient fine-tuning technique for large pre-trained models by injecting low-rank trainable matrices into each layer, reducing the number of trainable parameters.
